@@ -1,0 +1,44 @@
+_repo: Pony-Tracks_41011
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41011-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Remington, Frederic
+    alias: Remington, Frederic Sackrider
+    birthdate: 1861
+    deathdate: 1909
+    gutenberg_agent_id: '2565'
+    url: http://www.gutenberg.org/2009/agents/2565
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Remington
+description: A summary intro to Remington ; Chasing a major-general, Lieutenant Casey's
+  last scout, The Sioux outbreak in South Dakota, An outpost of civilization, A rodeo
+  at Los Ojos, In the Sierra Madre with the punchers, Black water and shallows, Coaching
+  in Chihuahua, Stubble and slough in Dakota, Policing the Yellowstone, A model squadron,
+  The affair of the -- th of July, The colonel of the first cycle infantry, A Merry
+  Christmas in a Sibley Tepee, Bear chasing in the Rocky Mountains.
+gutenberg_issued: '2012-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41011'
+  lccn: 01021695
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Chihuahua (Mexico : State) -- Description and travel'
+- !lcsh 'Remington, Frederic, 1861-1909'
+- !lcsh 'Indians of North America -- Wars -- 1866-1895'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+tableOfContents: Chasing a major-general -- Lieutenant Casey's last scout -- The Sioux
+  outbreak in South Dakota -- An outpost of civilization -- A rodeo at Los Ojos --
+  In the Sierra Madre with the punchers -- Black water and shallows -- Coaching in
+  Chihuahua -- Stubble and slough in Dakota -- Policing the Yellowstone -- A model
+  squadron -- The affair of the --th of July -- The colonel of the first cycle infantry
+  -- A Merry Christmas in a Sibley tepee -- Bear-chasing in the Rocky Mountains.
+title: Pony Tracks
+url: http://www.gutenberg.org/ebooks/41011
